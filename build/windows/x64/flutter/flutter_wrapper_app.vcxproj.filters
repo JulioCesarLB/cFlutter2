@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D7879C9D-0162-3D0D-BC41-DA3084C64E53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2353245B-F9AA-3AD0-A550-ABE230F208D1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

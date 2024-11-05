@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\app_links_plugin_c_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\app_links_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\include\app_links\app_links_plugin_c_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\app_links_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\windows\flutter\ephemeral\.plugin_symlinks\app_links\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{760B4AA4-9D1A-3694-9BDF-7CA53D185091}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2353245B-F9AA-3AD0-A550-ABE230F208D1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

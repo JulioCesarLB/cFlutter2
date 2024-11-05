@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\labsfiap\Desktop\Fiap_Task_App-main_Parte2_Checkpoint\build\windows\x64\CMakeFiles\b805ed762bb31b3d8d5dd8fb3a27fd99\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D7879C9D-0162-3D0D-BC41-DA3084C64E53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
